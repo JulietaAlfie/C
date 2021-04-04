@@ -1,0 +1,54 @@
+header {
+    text-align: center;
+    background-color: #ddd;
+    }
+body {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    line-height: 2;
+    text-align: center;
+}
+
+.item-detail {
+    font-weight: bold;
+    font-style: italic;
+}
+footer{
+    text-align: center;
+    background-color: #1f497d;
+    color: #ddd;
+}
+ul li{
+    text-align:left;
+}
+dl dd{
+    text-align: left;
+}
+dl dt{
+    text-align: left;
+}
+
+.imginstalink {
+    position:relative;
+    top: 4px;
+    width: 20px;
+    height: 20px;
+}
+
+.imglinkedinlink {
+    position:relative;
+    top: 4px;
+    width: 20px;
+    height: 20px;
+}
+h1,h2{
+    font-family: Cambria, Times, serif;
+    background-color: #bfbfbf;
+    letter-spacing: 0.5em;
+}
+
+h1{
+    color: #1f497d;
+}
+h2{
+    color: #632423;
+}
