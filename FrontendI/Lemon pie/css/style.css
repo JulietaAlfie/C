@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+@font-face{
+    font-family: 'Source Sans Pro', sans-serif;
+    src: ('fonts\SourceSansPro-Light.ttf');
+}
+
+.banner {
+    background-image: url(../img/lemon-pie2.jpg);
+    background-size: cover;
+    height: 343px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+.titulo{
+    font-weight: bolder;
+}
+h2, h3{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3{
+    font-style: italic;
+}
+
+ol,ul, dl{
+    line-height: 25px;
+    text-align: justify;
+}
+
+.merengueItaliano{
+    color: orange;
+    text-decoration: underline;
+}
