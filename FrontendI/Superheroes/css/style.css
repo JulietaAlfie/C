@@ -1,0 +1,200 @@
+ aside {
+    background-color: #1CD1B0 ;
+    text-align: left;
+    width: cover;
+    height: 61px!;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 56px;
+    text-align: left;
+    margin: 0px;
+    margin: 0%;
+    padding-left: 2%;
+}
+header {margin: 0px;
+    background-color: #00669F;
+    width: cover;
+    height: auto;
+    left: 0px;
+    top: 60px;
+    position: sticky;
+    z-index: 20;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    margin: 0px;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.cardsuperheroes{
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    font-weight: 400;
+    line-height: 84px!;
+    text-align: left;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+.back{
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+}
+
+.fondo1{
+    background-image: url("../img/bg-batman.jpg");
+    
+    position: relative;
+    width: 805px;
+    height: 600px;
+    top: 269px;
+    border-radius: 30px 30px 0 0;
+    margin: auto;
+} 
+.fondo2{
+    background-image: url("../img/bg-wonderw.jpg");
+    position: relative;
+    width: 805px;
+    height: 600px;
+    top: 269px;
+    border-radius: 30px 30px 0 0;
+    margin: auto;
+}
+.fondo3{
+    background-image: url("../img/bg-superman.jpg");
+    position: relative;
+    width: 805px;
+    height: 600px;
+    top: 269px;
+    border-radius: 30px 30px 0 0;
+    margin: auto;
+}
+.fa-heart{
+    color: #CC2424;
+    font-size: 2em;
+    top: 5%;
+    left: 5%;
+    position: absolute;
+    z-index: 10;
+}
+.fotobatman{
+    background-image: url("../img/batman.jpg");
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    position: absolute;
+    left: 30px;
+    top: 150px;
+    margin-left:34.5%;
+    margin-top: 8%;
+    z-index: 12;
+    
+}
+.fotowonderwoman{
+    background-image: url("../img/wonderw.jpg");
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    position: absolute;
+    left: 30px;
+    top: 150px;
+    margin-left:34.5%;
+    margin-top: 8%;
+    z-index: 12;
+}
+.fotosuperman{
+    background-image: url('../img/superman.jpg');
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    position: absolute;
+    left: 30px;
+    top: 150px;
+    margin-left:34.5%;
+    margin-top: 8%;
+    z-index: 12;
+}
+.titulobatman, .titulosuperman, .titulomujermaravilla{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    padding: 30px 30px;
+}
+.texto1, .texto2, .texto3{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    margin-top: 83px;
+    padding-bottom: 40px;
+
+}
+main{
+    margin-bottom: 15%;
+}
+.parteinferior1, .parteinferior2, .parteinferior3{
+    position: relative;
+    box-sizing: border-box;
+    background-color: #F3F3F3;
+    background-size: cover;
+    background-position: center;
+    width: 805px;
+    margin: auto;
+    padding: 2%;
+}
+.BotonVerMas{
+    background-color: #00669F;
+    color: #F3F3F3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    width: 300px;
+    height: 150px!;
+    margin: auto;
+    padding:20px;
+    border-radius: 4%;
+}
+footer{
+    box-sizing: border-box;
+    background-color: #00669F;
+    width: cover;
+    flex-flow: wrap;
+}
+.pie{
+    color: #F3F3F3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    padding-top: 2%;
+    display: inline-flex;
+    width: 50%;
+    padding-left: 35%;
+}
+.pie1{
+    text-align: center;
+}
+.github{
+  
+}
+.fa-plus-circle{
+    box-sizing: border-box;
+    position: fixed;
+    color: #00669F;
+    bottom: 10%;
+    right: 10%;
+    font-size: 150px;
+}
