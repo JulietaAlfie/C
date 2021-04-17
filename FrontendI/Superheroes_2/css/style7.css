@@ -1,0 +1,146 @@
+header{
+    width: 100%;
+}
+.aside{
+    background-color: #1CD1B0;
+    font-family: 'Roboto', sans-serif;
+    width: cover;
+    font-size: 15px;
+    padding-top: 4.31px;
+    padding-bottom: 4.31px;
+    font-weight: 400;
+}
+.superman{
+    padding-left: 30px;
+    background-color: #00669F;
+    width: cover;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    padding-left: 30px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body{
+    background-image: url("../img/bg-superman.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+
+main{
+    margin-bottom: 116px;
+    
+}
+.cardsuperman{
+    width: 546px;
+    height: 480px;
+    background: #F3F3F3;
+    border-radius: 45px;
+    margin: auto;
+    margin-top: 215px;
+    position: relative;
+    
+}
+h2{
+    position: absolute;
+    left: 200px;
+    top: 61px;
+    color: #2C0187;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    position: absolute;
+    height: 40px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    text-decoration: underline;
+}
+.boxsuperman{
+    position: relative;
+}
+
+footer{
+    width: cover;
+    height: 61px;
+    left: -3px;
+    bottom: 0px;
+    background: #00669F;
+}
+
+.pie{
+    width: 337.7px;
+    height: 19px;
+    left: 549.15px;
+    top: 1076px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFF9F9;
+    margin: auto;
+    padding-top: 21px;
+}
+
+.volveralmenu{
+    width: 546px;
+    height: 56px;
+    background: #2C0187;
+    border-radius: 0px 0px 45px 45px;
+    position: relative;
+    top: 400px;
+    text-align: center;
+    padding-top: 31px;
+}
+a{
+    width: 132px;
+    height: 23px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.texto{
+    position: absolute;
+    width: 500px;
+    height: 158px;
+    left: 23px;
+    top: 180px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+}
+.fotosuperman{
+    background-image: url("../img/superman.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 159px;
+    height: 159px;
+    border-radius: 50%;
+    z-index: 20;
+    position: absolute;
+    left: 200px;
+    bottom: 400px;
+}
+
+.corazon{
+    font-size: 2em;
+    top: 30px;
+    left: 50px;
+    position: absolute;
+    z-index: 10;
+}
