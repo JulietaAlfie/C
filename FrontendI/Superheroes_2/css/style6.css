@@ -1,6 +1,4 @@
-header{
-    width: 100%;
-}
+
 .aside{
     background-color: #1CD1B0;
     font-family: 'Roboto', sans-serif;
@@ -31,6 +29,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0px;
+    width: 1443px;
 }
 
 main{
