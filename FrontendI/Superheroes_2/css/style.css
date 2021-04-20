@@ -1,5 +1,5 @@
 body{
-    width: 1443px;
+    width: 100%;
 }
 .descuento{
     background-color: #1CD1B0;
@@ -59,6 +59,7 @@ h1{
 }
 .cartas{
     margin: auto;
+    width: fit-content;
 }
 .carta1, .carta2, .carta3{
     display: inline-block;

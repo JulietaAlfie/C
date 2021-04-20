@@ -1,5 +1,5 @@
 body{
-    width: 1443px;
+    width: 100%;
 }
 .descuento{
     background-color: #1CD1B0;
@@ -36,6 +36,8 @@ h1{
 }
 .contactobox{
     padding: 229px 410px 253px 410px;
+    margin: auto;
+    width: fit-content;
 }
 .Contacto{
         font-family: 'Inter', sans-serif;

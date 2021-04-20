@@ -1,5 +1,5 @@
 body{
-    width: 1443px;
+    width: 100%;
 }
 .descuento{
     background-color: #1CD1B0;
@@ -35,7 +35,9 @@ h1{
     padding-top: 27px;
 }
 .registrobox{
-    padding: 333px 408.88px 355px 410px;
+        margin: auto;
+        padding: 333px 410px 355px 410px;
+        width: fit-content;
 }
 .Registro{
     font-family: 'Inter', sans-serif;
