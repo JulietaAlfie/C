@@ -68,6 +68,11 @@ h1{
     margin-right: 30px;
 
 }
+.back{
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+}
 .fondo1, .fondo2, .fondo3{
     display: inline-block;
     position: relative;
