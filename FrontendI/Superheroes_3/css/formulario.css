@@ -1,0 +1,172 @@
+* {
+  box-sizing: border-box;
+}
+
+.caja-agregar-personaje {
+  width: 954px;
+  height: 870px;
+  background: #00669f;
+  box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.3);
+  margin: 50px auto;
+  border-radius: 49px;
+}
+
+.titulo-agregar {
+  width: 300px;
+  height: 72px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 72px;
+  font-family: "Inter", sans-serif;
+  color: #fbfffd;
+  margin: auto;
+}
+
+.subtitulo-agrega-personaje {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 14px;
+  font-family: "Inter", sans-serif;
+  width: 520px;
+  height: 14px;
+  color: #ffffff;
+  margin: auto;
+}
+.agregar-form {
+  width: 90%;
+  margin: 30px auto;
+}
+
+.columna-1,
+.columna-2 {
+  width: 40%;
+  margin-left: 5%;
+  display: inline-block;
+}
+label {
+  color: white;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
+input[type="text"],
+[type="date"],
+textarea,
+select {
+  border: 0px;
+  border-radius: 15px;
+  height: 63px;
+  width: 343px !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+  color: rgba(0, 0, 0, 0.5);
+  padding-left: 13px;
+}
+/* input[type="text"]:invalid, input[type="date"]:invalid, textarea:invalid{
+    border: 2px solid red;
+} */
+
+.descripcion-caja {
+  min-width: 343px;
+  max-width: 343px;
+  min-height: 305px;
+  max-height: 305px;
+  padding: 10px;
+  border: 1.53407px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  border-radius: 15.3407px;
+  background: #ffffff;
+  margin-bottom: 0px;
+}
+
+.btn-login {
+  background: #1cd1b0;
+  border-radius: 23.011px;
+  width: 450px;
+  height: 80px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 44px;
+  color: #000000;
+  margin: auto;
+}
+.btn-login:hover {
+    background: #001D2D;
+    color:#FFFFFF;
+}
+.botonañadir {
+  text-align: center;
+}
+
+#agregar-foto {
+  display: block;
+  margin-bottom: 10px;
+}
+#button-file {
+  background: #cecece;
+  height: 32px;
+  width: 190px;
+  left: 730px;
+  top: 481px;
+  border-radius: 5px;
+  color: black;
+  padding: 7px 0px 0px 7px;
+  margin-right: 4px;
+}
+input[type="file"] {
+  display: none;
+}
+
+input[type="checkbox"] {
+  background: #ffffff;
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  width: 24px;
+  height: 20px;
+}
+input[type="radio"] {
+  width: 20px;
+  height: 20px;
+  background: #ffffff;
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+}
+.billetera-gorda {
+  margin-bottom: 33px;
+}
+
+.rayo-laser,
+.superinteligencia,
+.volar,
+.billetera-gorda,
+.villano,
+.heroe {
+  margin-top: 16px;
+}
+
+.box-superpoderes,
+.box-tipo-personaje {
+  margin-top: 36px;
+}
+
+.seleccionar-archivo,
+.form-control {
+  display: inline-block;
+}
+
+.no-se-eligio {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 12px;
+}
+
