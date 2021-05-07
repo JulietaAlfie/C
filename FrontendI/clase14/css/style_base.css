@@ -55,13 +55,14 @@ main {
     padding: 35px 0px;
     /* Alto del main: alto viewport - alto Header - alto Footer 
        Me aseguro que el main ocupa todo el alto disponible */
-    min-height: calc(80vh - 100px - 150px);  
+    min-height: calc(100vh - 100px - 150px);  
 }
 
 main .container {
   display: flex;
   justify-content: space-around;
   align-items: stretch;
+  margin-top: 10vh;
 }
 
 main section .card {
